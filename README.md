@@ -13,3 +13,7 @@ Data Handling: Loads, cleans, and encodes the dataset.
 Interactive Plots: Generates various Plotly Express visualizations.
 Dash Dashboard: Creates a web-based interactive dashboard.
 Visualization Focus: Primarily focuses on data exploration through plots.
+
+![Image](https://github.com/user-attachments/assets/bf2cda67-2732-42d7-9e06-05e0814eaceb)
+
+![Image](https://github.com/user-attachments/assets/fabe5385-671d-40c9-82e0-3180fa33c524)
